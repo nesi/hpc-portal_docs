@@ -1,0 +1,352 @@
+/* Source: support-docs/docs/assets/stylesheets/theme.css */
+/* Trimmed for HPC Portal docs. */
+:root {
+  --reannz-blue: rgb(0, 185, 228);
+  --reannz-blue--shade-negative1: rgb(0, 127, 156);
+  --reannz-blue--dark: rgb(0, 28, 54);
+  --reannz-blue--dark-shade1: #2c485d;
+  --reannz-grey: rgb(195, 200, 200);
+  --reannz-black: rgb(25, 25, 25);
+  --reannz-green: rgb(190, 184, 6);
+  --reannz-green--dark: rgb(0, 170, 136);
+  --reannz-orange: rgb(241, 128, 0);
+  --reannz-purple: rgb(132, 121, 183);
+
+  --md-admonition-icon--prerequisite: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 9H7V7h10m0 6H7v-2h10m-3 6H7v-2h7M12 3a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1m7 0h-4.18C14.4 1.84 13.3 1 12 1c-1.3 0-2.4.84-2.82 2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2Z"/></svg>');
+  --md-admonition-icon--time: url('data:image/svg+xml;charset=utf-8,<svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">  <path d="M 8.4571429,2.2857143 V 0 H 15.314286 V 2.2857143 Z M 10.742857,14.857143 h 2.285714 V 8 H 10.742857 Z M 11.885714,24 Q 9.7714286,24 7.9,23.185714 6.0285714,22.371429 4.6285714,20.971429 3.2285714,19.571429 2.4142857,17.7 1.6,15.828571 1.6,13.714286 1.6,11.6 2.4142857,9.7285714 3.2285714,7.8571429 4.6285714,6.4571429 q 1.4,-1.4 3.2714286,-2.2142858 1.8714286,-0.8142857 3.985714,-0.8142857 1.771429,0 3.4,0.5714286 1.628572,0.5714286 3.057143,1.6571429 l 1.6,-1.6 1.6,1.6 -1.6,1.6 Q 21.028571,8.6857143 21.6,10.314286 q 0.571429,1.628571 0.571429,3.4 0,2.114285 -0.814286,3.985714 -0.814286,1.871429 -2.214286,3.271429 -1.4,1.4 -3.271428,2.214285 Q 14,24 11.885714,24 Z m 0,-2.285714 q 3.314286,0 5.657143,-2.342857 2.342857,-2.342858 2.342857,-5.657143 0,-3.314286 -2.342857,-5.6571431 Q 15.2,5.7142857 11.885714,5.7142857 q -3.3142854,0 -5.6571426,2.3428572 Q 3.8857143,10.4 3.8857143,13.714286 q 0,3.314285 2.3428571,5.657143 2.3428572,2.342857 5.6571426,2.342857 z m 0,-8 z" style="stroke-width:0.0285714"/></svg>');
+
+[data-md-color-scheme="default"] { /* original definitions of these colors here: https://github.com/squidfunk/mkdocs-material/blob/master/src/templates/assets/stylesheets/main/_colors.scss */
+  --md-primary-fg-color: var(--reannz-blue--dark); /* head bar background color */
+  --md-accent-fg-color: var(--reannz-blue); /* hover color for sidebar links */
+  --md-code-bg-color: #eef1f3; /* Material's default is a ~70%-opacity #f5f5f5, which barely reads against a white page; bump contrast a touch */
+  /* Material's syntax colours drop just below WCAG AA (4.5:1) on the darker code background above.
+     Same hues, darkened to >= 4.7:1 against #eef1f3. */
+  --md-code-hl-keyword-color: #3968bf;
+  --md-code-hl-constant-color: #6a55d8;
+  --md-code-hl-function-color: #a042b0;
+  --md-code-hl-number-color: #cc2828;
+  --md-code-hl-special-color: #cf1352;
+  --md-code-hl-string-color: #1b794a;
+  --md-code-hl-comment-color: rgba(0, 0, 0, 0.58);
+  --md-code-hl-generic-color: rgba(0, 0, 0, 0.58);
+  --md-code-hl-operator-color: rgba(0, 0, 0, 0.58);
+  --md-code-hl-punctuation-color: rgba(0, 0, 0, 0.58);
+  --md-code-hl-variable-color: rgba(0, 0, 0, 0.58);
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: var(--reannz-blue--dark); /* head bar background color */
+  --md-accent-fg-color: var(--reannz-blue); /* hover color for sidebar links */
+  --md-typeset-a-color: rgb(0, 206, 255); /* sidebar active link color */
+}
+}
+
+/* Give code blocks a visible edge so they read as distinct blocks
+   instead of blending into the page background (esp. in light mode) */
+.md-typeset pre>code {
+  border: 1px solid var(--md-default-fg-color--lightest);
+}
+
+/* e.g. inactive link text */
+.md-typeset a {
+  color: var(--reannz-blue--shade-negative1);
+  text-decoration: underline;
+}
+
+.md-typeset a:hover {
+  color: var(--reannz-blue);
+  text-decoration: underline;
+}
+
+[data-md-color-scheme="slate"] .md-typeset a:hover {
+  color: rgb(0, 206, 255);
+}
+
+[data-md-color-scheme="slate"] .md-typeset a {
+  color: var(--reannz-blue);
+}
+
+.md-typeset__table {
+  width: 100%;
+}
+
+.md-typeset__table table:not([class]) {
+  display: table
+}
+
+/* Hide the header row of tables whose header cells are all empty */
+.md-typeset table:not([class]) thead:not(:has(th:not(:empty))) {
+  display: none;
+}
+
+/* Get support button */
+.md-button-support {
+  position: absolute;
+  margin: -2rem 0 0 1rem;
+  width: 80%;
+  text-align: center;
+  font-size: 0.7rem;
+}
+
+/* Don't duplicate header title */
+.md-nav--primary>.md-nav__title {
+  display: none;
+}
+
+/* Make button more buttony */
+.md-button--primary {
+  box-shadow: grey 2px 2px 2px;
+}
+
+/* Fix Contact Support button color in dark mode */
+[data-md-color-scheme="slate"] .md-button-support {
+  background-color: var(--reannz-blue--shade-negative1);
+}
+
+[data-md-color-scheme="slate"] .md-typeset .md-button-support {
+  color: white;
+}
+
+/* Footer */
+#new-footer {
+  /* Lato was never loaded, so the footer fell back to a serif font */
+  font-family: var(--md-text-font-family);
+  font-size: 0.6rem;
+  font-weight: 400;
+  text-align: center;
+  padding: 0.8rem 1rem;
+  color: var(--md-footer-fg-color--light);
+  /* MB logo has black border */
+  background-color: var(--reannz-black);
+}
+
+#new-footer a {
+  color: var(--md-footer-fg-color--light);
+}
+
+#new-footer a:hover,
+#new-footer a:focus {
+  color: var(--md-footer-fg-color);
+  text-decoration: underline;
+}
+
+/* Make cards look right */
+.md-typeset .grid.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 320px), 1fr));
+  gap: 1rem;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.cards>a>img {
+  width: 50%;
+  margin: auto;
+  display: block;
+  filter: brightness(0);
+}
+
+.cards>a:hover>img {
+  filter: none;
+}
+
+.cards {
+  color: var(--md-typeset-color); /* I don't think this does anything */
+}
+
+.cards>a {
+  border: .05rem solid var(--md-default-fg-color--lightest);
+  border-radius: .1rem;
+  display: block;
+  padding: .8rem;
+  transition: border .25s, box-shadow .25s;
+}
+
+.cards>a:hover {
+  border-color: #0000;
+  box-shadow: var(--md-shadow-z2);
+}
+
+.cards>a>hr,
+.cards>a>h3,
+.grid.cards>a>h3,
+.grid.cards>a>p {
+  margin: 0;
+  color: rgba(0, 0, 0, 0.87);
+}
+
+[data-md-color-scheme="slate"] .grid.cards>a>img {
+  filter: brightness(0) invert(0.75);
+}
+
+[data-md-color-scheme="slate"] .grid.cards>a:hover>img {
+  filter: invert(0.75);
+}
+
+[data-md-color-scheme="slate"] .grid.cards>a>h3 {
+  color: var(--md-typeset-color);
+}
+
+[data-md-color-scheme="slate"] .grid.cards>a>p {
+  color: var(--md-typeset-color);
+}
+
+/* Banners */
+/* The announcement bar (overrides/main.html) uses Material .md-banner markup. */
+
+.md-banner {
+  background: #fffae6;
+  border-bottom: 1px solid #ccc;
+  color: var(--md-typeset-color);
+  text-align: center;
+}
+
+.md-banner__inner > p {
+  margin: 0;
+}
+
+/* The default link colour is only 4.44:1 on the banner's yellow, darken it to pass WCAG AA (5.08:1). */
+.md-banner a {
+  color: #007591;
+}
+
+[data-md-color-scheme="slate"] .md-banner {
+  background: var(--reannz-blue--dark-shade1);
+}
+
+[data-md-color-scheme="slate"] .md-banner a {
+  color: var(--md-typeset-a-color);
+}
+
+/* custom admonition */
+/* prereq */
+
+.md-typeset .admonition.prerequisite,
+.md-typeset details.prerequisite {
+  border-color: var(--reannz-green);
+}
+
+.md-typeset .prerequisite>.admonition-title,
+.md-typeset .prerequisite>summary {
+  background-color: rgba(190, 184, 6, 0.1);
+  /*above color*/
+}
+
+.md-typeset .prerequisite>.admonition-title::before,
+.md-typeset .prerequisite>summary::before {
+  background-color: var(--reannz-green);
+  -webkit-mask-image: var(--md-admonition-icon--prerequisite);
+  mask-image: var(--md-admonition-icon--prerequisite);
+}
+
+/* postreq */
+.md-typeset .admonition.postrequisite,
+.md-typeset details.postrequisite {
+  border-color: rgb(170, 170, 60);
+}
+
+.md-typeset .postrequisite>.admonition-title,
+.md-typeset .postrequisite>summary {
+  background-color: rgba(170, 170, 60, 0.1);
+}
+
+.md-typeset .postrequisite>.admonition-title::before,
+.md-typeset .postrequisite>summary::before {
+  background-color: rgb(170, 170, 60);
+  -webkit-mask-image: var(--md-tabbed-icon--next);
+  mask-image: var(--md-tabbed-icon--next);
+}
+
+/* deprecated */
+.md-typeset .admonition.deprecated,
+.md-typeset details.deprecated {
+  border-color: #ff1744;
+}
+
+.md-typeset .deprecated>.admonition-title,
+.md-typeset .deprecated>summary {
+  background-color: #ff17441a;
+}
+
+.md-typeset .deprecated>.admonition-title::before,
+.md-typeset .deprecated>summary::before {
+  background-color: #ff1744;
+  -webkit-mask-image: var(--md-status--deprecated);
+  mask-image: var(--md-status--deprecated);
+}
+
+/* time */
+.md-typeset .admonition.time,
+.md-typeset details.time {
+  border-color: var(--reannz-green--dark);
+}
+
+.md-typeset .time>.admonition-title,
+.md-typeset .time>summary {
+  background-color: rgba(0, 170, 136, 0.1);
+}
+
+.md-typeset .time>.admonition-title::before,
+.md-typeset .time>summary::before {
+  background-color:  var(--reannz-green--dark);
+  -webkit-mask-image: var(--md-admonition-icon--time);
+  mask-image: var(--md-admonition-icon--time);
+}
+
+/* objectives */
+.md-typeset .admonition.objectives,
+.md-typeset details.time {
+  border-color: var(--reannz-purple)
+}
+
+.md-typeset .objectives>.admonition-title,
+.md-typeset .objectives>summary {
+  background-color: rgba(132, 121, 183, 0.1);
+}
+
+.md-typeset .objectives>.admonition-title::before,
+.md-typeset .objectives>summary::before {
+  background-color: var(--reannz-purple);
+  -webkit-mask-image: var(--md-admonition-icon--prerequisite);
+  mask-image: var(--md-admonition-icon--prerequisite);
+}
+
+/* keypoints */
+.md-typeset .admonition.keypoints,
+.md-typeset details.keypoints {
+  border-color: var(--reannz-grey);
+}
+
+.md-typeset .keypoints>.admonition-title,
+.md-typeset .keypoints>summary {
+  background-color: rgba(195, 200, 200, 0.1);
+}
+
+.md-typeset .keypoints>.admonition-title::before,
+.md-typeset .keypoints>summary::before {
+  background-color: var(--reannz-grey);
+  -webkit-mask-image: var(--md-admonition-icon--prerequisite);
+  mask-image: var(--md-admonition-icon--prerequisite);
+}
+
+/* question */
+:root {
+  --question-color: rgb(100, 221, 23);
+}
+
+.md-typeset .admonition.question,
+.md-typeset details.question {
+  border-color: var(--question-color);
+}
+
+.md-typeset .question>.admonition-title,
+.md-typeset .question>summary {
+  background-color: rgba(100, 221, 23, 0.1);
+}
+
+.md-typeset .question>.admonition-title::before,
+.md-typeset .question>summary::before {
+  background-color: var(--question-color);
+  -webkit-mask-image: var(--md-admonition-icon--question);
+  mask-image: var(--md-admonition-icon--question);
+}
