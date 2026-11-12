@@ -57,7 +57,7 @@ choose the role and click **Add role**.
 The portal does not email them in that case, so let them know.
 
 The project gets its project code automatically,
-usually within about 30 minutes.
+usually within an hour.
 
 ## Share a group invitation link
 

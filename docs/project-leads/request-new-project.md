@@ -108,7 +108,7 @@ REANNZ reviews those orders and makes recommendations if need be.
 ## Order an allocation
 
 Your project needs a project code before you order.
-A sync job assigns the code, usually within about 30 minutes of creating the project.
+A sync job assigns the code, usually within an hour of creating the project.
 
 1. Open your project and go to the **REANNZ Marketplace**.
 2. Choose the offering, for example **Mahuika**.
