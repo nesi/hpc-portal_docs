@@ -72,6 +72,9 @@ A project manager raises a limit change with **Actions** → **Change limits** o
 
 You can also approve from **Actions** on the resource page.
 
+To approve, reject or edit several orders on one screen,
+see [Review pending requests](review-pending-requests.md).
+
 After you approve, REANNZ reviews the order and makes recommendations if need be.
 The change applies when REANNZ marks the order done.
 Orders you place yourself skip your approval step.

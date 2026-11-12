@@ -10,8 +10,8 @@ tags:
 !!! warning "Not yet available to organisation owners"
     The HPC Portal does not give organisation owners an API token at present.
     The steps below show how monitoring works once it does.
-    Until then, use the portal: open your organisation's **Resources**
-    and check the allocations with the nearest **Termination date**.
+    Until then, use the REANNZ allocations page. Sort by **End date** and use **Export CSV**.
+    See [Monitor allocation usage](allocation-usage.md).
 
 The HPC Portal has a REST API at `https://hpc-portal.reannz.co.nz/api/`.
 As an organisation owner, you can use it to list your organisation's allocations,
