@@ -1,0 +1,37 @@
+name: Checks
+
+on:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: astral-sh/setup-uv@v6
+      - run: uv sync --locked
+      - run: uv run zensical build --clean --strict
+      - name: Check plugin output
+        run: test -f site/llms.txt && test -f site/tags/index.html
+      - name: Check links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --offline --no-progress --root-dir ${{ github.workspace }}/site
+            --remap 'file://${{ github.workspace }}/site/hpc-portal_docs/?(.*) file://${{ github.workspace }}/site/$1'
+            --index-files index.html
+            'site/**/*.html'
+
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: DavidAnson/markdownlint-cli2-action@v20
+        with:
+          globs: 'docs/**/*.md'
+      - uses: codespell-project/actions-codespell@v2
+        with:
+          path: docs
