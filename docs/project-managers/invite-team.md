@@ -1,9 +1,9 @@
 ---
 title: Invite your team
-description: How project leads add members to a project in the REANNZ HPC Portal.
+description: How project managers add members to a project in the REANNZ HPC Portal.
 created_at: '2026-11-13'
 tags:
-- project-lead
+- project-manager
 ---
 
 As a project manager, you decide who is on your project.

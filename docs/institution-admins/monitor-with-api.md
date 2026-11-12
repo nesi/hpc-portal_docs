@@ -72,7 +72,7 @@ Sort by `end_date` and stop reading once the dates are far enough away.
 Results come in pages. Add `page_size=100` and follow the `Link` header for the next page.
 
 For an allocation close to its end date, ask its project manager to request an extension.
-See [Extending a request](../project-leads/extend-request.md).
+See [Extending a request](../project-managers/extend-request.md).
 
 ## Keep your token safe
 

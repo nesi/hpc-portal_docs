@@ -1,6 +1,6 @@
 ---
 title: Home
-description: Guides for researchers, project leads and institution admins using the REANNZ HPC Portal.
+description: Guides for researchers, project managers and institution admins using the REANNZ HPC Portal.
 hide:
   - toc
 ---
@@ -26,14 +26,14 @@ HPC projects, team members and allocations on Mahuika and Freezer.
 
     [Accept an invitation](members/accept-invitation.md)
 
-- **Project leads**
+- **Project managers**
 
     ---
 
     You lead a project.
     Request projects and allocations, invite your team and extend end dates.
 
-    [Request a new project](project-leads/request-new-project.md)
+    [Request a new project](project-managers/request-new-project.md)
 
 - **Institution admins**
 

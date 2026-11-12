@@ -56,11 +56,16 @@ toggle.name = "Switch to system preference"
 [project.plugins.search]
 
 [project.plugins.tags]
-tags_allowed = ["account", "portal", "allocation", "project-member", "project-lead", "institution-admin"]
+tags_allowed = ["account", "portal", "allocation", "project-member", "project-manager", "institution-admin"]
 
 [project.plugins.awesome-nav]
 
 [project.plugins.redirects.redirect_maps]
+"project-leads/change-limits.md" = "project-managers/change-limits.md"
+"project-leads/extend-request.md" = "project-managers/extend-request.md"
+"project-leads/invite-team.md" = "project-managers/invite-team.md"
+"project-leads/request-new-project.md" = "project-managers/request-new-project.md"
+"project-leads/track-order.md" = "project-managers/track-order.md"
 
 [project.plugins.llmstxt]
 markdown_description = "User documentation for the REANNZ HPC Portal: signing in, requesting and extending HPC projects, and approving requests."
@@ -68,7 +73,7 @@ markdown_description = "User documentation for the REANNZ HPC Portal: signing in
 [project.plugins.llmstxt.sections]
 "Getting started" = ["getting-started/*.md"]
 "Project members" = ["members/*.md"]
-"Project leads" = ["project-leads/*.md"]
+"Project managers" = ["project-managers/*.md"]
 "Institution admins" = ["institution-admins/*.md"]
 
 [project.plugins.privacy]

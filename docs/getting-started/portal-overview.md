@@ -91,4 +91,4 @@ The resource page shows:
 The **Actions** button on the resource page lists what you can do with it.
 The options depend on your role.
 
-To extend or grow an allocation, see [Extending a request](../project-leads/extend-request.md).
+To extend or grow an allocation, see [Extending a request](../project-managers/extend-request.md).
