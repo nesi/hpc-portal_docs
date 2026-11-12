@@ -31,7 +31,7 @@ To renew *and* grow an allocation, make both.
 
 ## Extend the end date
 
-Project managers and project members can ask for a new end date.
+Project managers can ask for a new end date.
 An organisation owner at your institution approves it.
 
 1. Log in to [https://hpc-portal.reannz.co.nz](https://hpc-portal.reannz.co.nz) with **Sign in with Tuakiri**.

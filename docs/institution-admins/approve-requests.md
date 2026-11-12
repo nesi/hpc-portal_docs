@@ -20,7 +20,7 @@ Each type of request waits in its own place.
 | New resource | A project manager | Yes. The subject names the order. | Your organisation's **Resources** → **Orders**. See [Approve an order](#approve-an-order). |
 | Limit change | A project manager | Yes, as for a new resource. A limit change is an order. | As for a new resource. |
 | New project | A researcher, through a link that needs approval | Yes. | Your organisation's **Team** → **Group invitations**. See [Approve a project request](../project-leads/request-new-project.md#approve-a-project-request). |
-| End date change | A project manager or member | Sometimes a short notice. Do not rely on it. | The resource's **End date change requests** tab. See [Approve end dates](#approve-end-dates). |
+| End date change | A project manager | Yes. | The resource's **End date change requests** tab. See [Approve end dates](#approve-end-dates). |
 
 Most portal emails do not repeat the request details.
 Log in to the portal to review them.
