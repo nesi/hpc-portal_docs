@@ -62,6 +62,7 @@ Once approved, the project appears under **Projects**.
 
 !!! warning "Always change the project name"
     Give each new project a unique name.
+    Typing the name of an existing project joins you to that project.
     If the portal says **You have joined an existing project**,
     do not order anything for it.
     [Contact our Support Team](mailto:support@nesi.org.nz?subject=HPC%20Portal%20Request).
@@ -107,7 +108,7 @@ REANNZ reviews those orders and makes recommendations if need be.
 ## Order an allocation
 
 Your project needs a project code before you order.
-The code is assigned automatically, usually within an hour of creating the project.
+A sync job assigns the code, usually within about 30 minutes of creating the project.
 
 1. Open your project and go to the **REANNZ Marketplace**.
 2. Choose the offering, for example **Mahuika**.
@@ -119,7 +120,13 @@ The code is assigned automatically, usually within an hour of creating the proje
 
 The order goes to an organisation owner at your institution for approval.
 REANNZ then reviews it and makes recommendations if need be.
-The allocation is created once that review is complete.
+The allocation is ready once REANNZ marks the order done.
+
+!!! note "Check the order status in the portal"
+    The portal sends no email when REANNZ finishes its review, when provisioning finishes,
+    or when a limit change completes.
+    It also sends no email when an order is declined, so ask your organisation owner for the outcome.
+    Check the resource instead. It shows **OK** when the allocation is ready.
 
 ## For organisation owners
 
@@ -140,7 +147,8 @@ To find it:
    **Auto approve** shows whether the link needs your approval.
 4. Copy the **Invitation link** with the copy icon next to it.
 
-Send the link to researchers at your institution.
+Treat the link as a secret.
+Send it to researchers at your institution.
 Do not share it outside your institution.
 With a link that is approved automatically,
 anyone who logs in with it can create a project in your organisation.

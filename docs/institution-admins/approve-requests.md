@@ -73,8 +73,12 @@ A project manager raises a limit change with **Actions** → **Change limits** o
 You can also approve from **Actions** on the resource page.
 
 After you approve, REANNZ reviews the order and makes recommendations if need be.
-The change applies once that review is complete.
+The change applies when REANNZ marks the order done.
 Orders you place yourself skip your approval step.
+
+!!! note "Declined orders send no email"
+    The portal does not email the project manager when you decline an order.
+    Tell them directly, with the reason.
 
 ## Approve end dates
 

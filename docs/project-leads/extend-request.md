@@ -27,6 +27,7 @@ To renew *and* grow an allocation, make both.
   The portal does not accept an end date in the past,
   and an allocation may be removed once its end date has passed.
 - Request well ahead. Do not wait for a reminder.
+- The portal emails a reminder 7 days and 1 day before the end date.
 
 ## Extend the end date
 
@@ -51,7 +52,7 @@ The **Pending** list shows open requests and **All** shows past ones.
 ## After you send a request
 
 - An organisation owner at your institution reviews the request and approves or rejects it.
-- When approved, the new end date applies at once. There is no further step.
+- When approved, the new end date applies at once. REANNZ does not review end date changes, so there is no further step.
 - When rejected, the end date does not change.
 - Check the **End date change requests** tab on the resource to see the outcome.
 
@@ -77,7 +78,11 @@ Project members cannot; ask your project manager.
 
 The change goes to your organisation for approval.
 REANNZ then reviews it and makes recommendations if need be.
-The new limits apply once that review is complete.
+The new limits apply when REANNZ marks the order done.
+
+!!! note "Check the resource for the result"
+    The portal does not email you when REANNZ finishes its review or marks the order done.
+    Open the resource. It shows **OK** with the new limits when the change is in place.
 
 ## Allocation size limits
 
