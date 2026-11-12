@@ -1,9 +1,9 @@
 ---
 title: Track an order
-description: How project leads check the status of an order and know when a resource is ready.
+description: How project managers check the status of an order and know when a resource is ready.
 created_at: '2026-11-13'
 tags:
-- project-lead
+- project-manager
 - allocation
 ---
 
@@ -23,6 +23,10 @@ The portal has no orders tab on the project. Use one of these instead.
 1. Click **REANNZ Marketplace** in the sidebar.
 2. Click the **Orders** tab.
 3. To see one project only, filter by **Project**.
+
+**Waiting requests at a glance.**
+The **Pending requests** view on the REANNZ allocations page shows who each request is waiting for.
+See [Check allocation usage](allocation-usage.md#see-your-waiting-requests).
 
 **Orders for one resource.**
 

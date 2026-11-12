@@ -19,7 +19,7 @@ Each type of request waits in its own place.
 | --- | --- | --- | --- |
 | New resource | A project manager | Yes. The subject names the order. | Your organisation's **Resources** → **Orders**. See [Approve an order](#approve-an-order). |
 | Limit change | A project manager | Yes, as for a new resource. A limit change is an order. | As for a new resource. |
-| New project | A researcher, through a link that needs approval | Yes. | Your organisation's **Team** → **Group invitations**. See [Approve a project request](../project-leads/request-new-project.md#approve-a-project-request). |
+| New project | A researcher, through a link that needs approval | Yes. | Your organisation's **Team** → **Group invitations**. See [Approve a project request](../project-managers/request-new-project.md#approve-a-project-request). |
 | End date change | A project manager | Yes. | The resource's **End date change requests** tab. See [Approve end dates](#approve-end-dates). |
 
 Most portal emails do not repeat the request details.
@@ -31,12 +31,12 @@ Open your organisation's **Resources** and check the allocations with the neares
 ## New projects
 
 Researchers get a new project in one of three ways.
-See [Requesting a new project](../project-leads/request-new-project.md) for each.
+See [Requesting a new project](../project-managers/request-new-project.md) for each.
 
 - They use your organisation's group invitation link, which you share.
-  See [Share the link](../project-leads/request-new-project.md#share-the-link).
+  See [Share the link](../project-managers/request-new-project.md#share-the-link).
 - They ask you, and you create the project.
-  See [Create a project](../project-leads/request-new-project.md#create-a-project).
+  See [Create a project](../project-managers/request-new-project.md#create-a-project).
 - They apply to a call for proposals, if your organisation runs one.
 
 For a link:
@@ -46,7 +46,7 @@ What happens next depends on the link:
 - **Approved automatically.** The portal creates the project at once.
   You do not approve this step, and the portal does not email you.
 - **Needs approval.** The request waits for you.
-  See [Approve a project request](../project-leads/request-new-project.md#approve-a-project-request).
+  See [Approve a project request](../project-managers/request-new-project.md#approve-a-project-request).
 
 Either way, the requester becomes the project manager.
 To see who has used a link:
@@ -71,6 +71,9 @@ A project manager raises a limit change with **Actions** → **Change limits** o
 4. Click **Actions**, then **Approve** or **Decline**, and confirm.
 
 You can also approve from **Actions** on the resource page.
+
+To approve, reject or edit several orders on one screen,
+see [Review pending requests](review-pending-requests.md).
 
 After you approve, REANNZ reviews the order and makes recommendations if need be.
 The change applies when REANNZ marks the order done.
@@ -98,7 +101,7 @@ To change an end date yourself, click **Actions** → **Set termination date** o
 
 ## Further reading
 
-For how projects raise these requests, see [Extending a request](../project-leads/extend-request.md).
+For how projects raise these requests, see [Extending a request](../project-managers/extend-request.md).
 
 The HPC Portal is built on Waldur. Its user guide covers
 [resource end date changes](https://docs.waldur.com/latest/user-guide/customer-organization/resource-end-date-changes)

@@ -18,12 +18,12 @@ The new project has no allocation yet.
 The project manager orders one, and the order comes to you.
 See [Approve an order](approve-requests.md#approve-an-order).
 
-For the researcher's side, see [Requesting a new project](../project-leads/request-new-project.md).
+For the researcher's side, see [Requesting a new project](../project-managers/request-new-project.md).
 
 !!! note "Renewals are not new projects"
     To keep an existing project going, its project manager extends the allocation's end date.
     Do not create a new project for a renewal. A new project gets a new project code.
-    See [Extending a request](../project-leads/extend-request.md).
+    See [Extending a request](../project-managers/extend-request.md).
 
 ## Create a project directly
 
@@ -74,7 +74,7 @@ To find the link:
 4. Copy the **Invitation link** with the copy icon next to it.
 
 Requests through a link that needs approval wait for you.
-See [Approve a project request](../project-leads/request-new-project.md#approve-a-project-request).
+See [Approve a project request](../project-managers/request-new-project.md#approve-a-project-request).
 
 You cannot change or cancel the link yourself.
 If your organisation has no link, or you want it changed or cancelled,

@@ -1,9 +1,9 @@
 ---
 title: Change allocation limits
-description: How project leads ask for more compute (RSU) or storage (TiB) on an existing resource.
+description: How project managers ask for more compute (RSU) or storage (TiB) on an existing resource.
 created_at: '2026-11-13'
 tags:
-- project-lead
+- project-manager
 - allocation
 ---
 
