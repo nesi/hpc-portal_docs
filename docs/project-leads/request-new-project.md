@@ -135,6 +135,7 @@ approve project requests that come through it,
 and create projects for researchers who ask you.
 You also approve the allocation order for each new project.
 See [Approve an order](../institution-admins/approve-requests.md#approve-an-order).
+For all of this on one page, see [Create projects](../institution-admins/create-projects.md).
 
 ### Share the link
 

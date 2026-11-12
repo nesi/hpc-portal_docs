@@ -7,6 +7,12 @@ tags:
 - allocation
 ---
 
+!!! warning "Not yet available to organisation owners"
+    The HPC Portal does not give organisation owners an API token at present.
+    The steps below show how monitoring works once it does.
+    Until then, use the portal: open your organisation's **Resources**
+    and check the allocations with the nearest **Termination date**.
+
 The HPC Portal has a REST API at `https://hpc-portal.reannz.co.nz/api/`.
 As an organisation owner, you can use it to list your organisation's allocations,
 their limits, their usage and their end dates.
@@ -15,8 +21,8 @@ The API shows you the same data as the portal does.
 ## Get an API token
 
 Each call needs an API token.
-The HPC Portal does not show API tokens to organisation owners at present.
-To ask for API access,
+The portal does not show one to organisation owners at present.
+If you need API access,
 [contact our Support Team](mailto:support@nesi.org.nz?subject=HPC%20Portal%20API%20access).
 
 Send the token in the `Authorization` header of each request:

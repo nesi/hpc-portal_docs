@@ -16,8 +16,8 @@ You run your work on Mahuika itself, through OnDemand or SSH.
 - You do not apply for an HPC account.
   It is created for you when you join a project with an allocation.
   This can take a short while.
-- The first time you log in to Mahuika, you set up a second login factor.
-  See [First Time Login](https://docs.nesi.org.nz/Getting_Started/Accessing_the_HPCs/First_Time_Login/).
+- Before you first connect, read
+  [First Time Login](https://docs.nesi.org.nz/Getting_Started/Accessing_the_HPCs/First_Time_Login/).
 
 ## Connect with OnDemand or Jupyter
 

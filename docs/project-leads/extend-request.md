@@ -69,6 +69,7 @@ or the request is waiting too long,
 
 Project managers can change limits, such as compute or storage.
 Project members cannot; ask your project manager.
+For the full steps, see [Change allocation limits](change-limits.md).
 
 1. Open the resource as above.
 2. Click **Actions**, then **Change limits**.
