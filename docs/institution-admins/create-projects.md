@@ -3,6 +3,7 @@ title: Create projects
 description: How institution admins create projects directly or share a group invitation link.
 created_at: '2026-11-13'
 tags:
+- how-to
 - institution-admin
 ---
 

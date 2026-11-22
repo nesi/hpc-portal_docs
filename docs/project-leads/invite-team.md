@@ -3,6 +3,7 @@ title: Invite your team
 description: How project leads add members to a project in the REANNZ HPC Portal.
 created_at: '2026-11-13'
 tags:
+- how-to
 - project-lead
 ---
 

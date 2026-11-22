@@ -3,6 +3,7 @@ title: Access Mahuika
 description: Where project members go next to use Mahuika once they belong to a project.
 created_at: '2026-11-13'
 tags:
+- how-to
 - project-member
 ---
 
