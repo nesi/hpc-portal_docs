@@ -3,6 +3,7 @@ title: Accept a project invitation
 description: How project members accept an invitation to join a project in the REANNZ HPC Portal.
 created_at: '2026-11-13'
 tags:
+- how-to
 - project-member
 - account
 ---
@@ -43,6 +44,6 @@ To turn down an invitation, tell your project manager.
 
 The **Resources** tab shows the project's allocations.
 The **Team** tab shows who else is in the project.
-See [See your projects](../getting-started/portal-overview.md#see-your-projects).
+See [Open a project](../getting-started/portal-overview.md#open-a-project).
 
 Next, see [Access Mahuika](access-mahuika.md).

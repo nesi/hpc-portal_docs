@@ -56,7 +56,7 @@ toggle.name = "Switch to system preference"
 [project.plugins.search]
 
 [project.plugins.tags]
-tags_allowed = ["account", "portal", "allocation", "project-member", "project-manager", "institution-admin"]
+tags_allowed = ["account", "portal", "allocation", "project-member", "project-manager", "institution-admin", "tutorial", "how-to", "reference", "explanation"]
 
 [project.plugins.awesome-nav]
 

@@ -2,6 +2,7 @@
 title: Extending a Request - Renew an Allocation
 created_at: '2026-09-29'
 tags:
+- how-to
 - project-manager
 - allocation
 description: How to extend the end date or change the limits of a Mahuika or Freezer allocation in the REANNZ HPC Portal.
@@ -22,7 +23,7 @@ To renew *and* grow an allocation, make both.
 
 ## Before you start
 
-- You need a role on the project. See [your roles in the HPC Portal](../getting-started/portal-overview.md#see-your-roles).
+- You need a role on the project. See [your roles in the HPC Portal](../getting-started/portal-reference.md#roles).
 - Make your request **before** the current end date.
   The portal does not accept an end date in the past,
   and an allocation may be removed once its end date has passed.

@@ -2,6 +2,7 @@
 title: Requesting a New Project
 created_at: '2026-10-27'
 tags:
+- how-to
 - project-manager
 - allocation
 description: How researchers get a new project in the REANNZ HPC Portal through a group invitation link, an organisation owner, or a call for proposals.

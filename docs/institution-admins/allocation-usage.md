@@ -3,6 +3,7 @@ title: Monitor allocation usage
 description: How organisation owners see which allocations in their organisation are near or over their limits and export the list.
 created_at: '2026-11-13'
 tags:
+- how-to
 - institution-admin
 - allocation
 ---

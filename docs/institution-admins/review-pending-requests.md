@@ -3,6 +3,7 @@ title: Review pending requests
 description: How organisation owners approve, reject or edit allocation orders in bulk on the REANNZ allocations page.
 created_at: '2026-11-13'
 tags:
+- how-to
 - institution-admin
 - allocation
 ---

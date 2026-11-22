@@ -24,7 +24,7 @@ HPC projects, team members and allocations on Mahuika and Freezer.
     You work on a project someone else leads.
     Sign in, accept an invitation and reach Mahuika.
 
-    [Accept an invitation](members/accept-invitation.md)
+    [Start the member path](members/index.md)
 
 - **Project managers**
 
@@ -33,7 +33,7 @@ HPC projects, team members and allocations on Mahuika and Freezer.
     You lead a project.
     Request projects and allocations, invite your team and extend end dates.
 
-    [Request a new project](project-managers/request-new-project.md)
+    [Start the project manager path](project-managers/index.md)
 
 - **Institution admins**
 
@@ -42,8 +42,8 @@ HPC projects, team members and allocations on Mahuika and Freezer.
     You manage HPC access for your institution.
     Approve orders and end dates, and create projects.
 
-    [Approve requests](institution-admins/approve-requests.md)
+    [Start the admin path](institution-admins/index.md)
 
 </div>
 
-New to the portal? Start with the [HPC Portal overview](getting-started/portal-overview.md).
+New to the portal? Start with the 10-minute [tour of the HPC Portal](getting-started/portal-overview.md).

@@ -2,6 +2,7 @@
 title: Approving Requests
 created_at: '2026-10-01'
 tags:
+- how-to
 - institution-admin
 - allocation
 description: How organisation owners find and approve orders and end date changes in the REANNZ HPC Portal.

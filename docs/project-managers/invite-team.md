@@ -3,6 +3,7 @@ title: Invite your team
 description: How project managers add members to a project in the REANNZ HPC Portal.
 created_at: '2026-11-13'
 tags:
+- how-to
 - project-manager
 ---
 
@@ -17,7 +18,7 @@ You manage the team from the project's **Team** tab.
 | Project manager | You and any co-leads | Manage the team, change limits and request end date changes. |
 
 A project can have more than one project manager.
-See [What each role can do](../getting-started/portal-overview.md#what-each-role-can-do).
+See [Roles](../getting-started/portal-reference.md#roles).
 
 ## Send an invitation
 

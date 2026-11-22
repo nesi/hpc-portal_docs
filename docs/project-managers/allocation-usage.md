@@ -3,6 +3,7 @@ title: Check allocation usage
 description: How project managers see usage against limits for all their allocations, and which of their requests are still waiting.
 created_at: '2026-11-13'
 tags:
+- how-to
 - project-manager
 - allocation
 ---
