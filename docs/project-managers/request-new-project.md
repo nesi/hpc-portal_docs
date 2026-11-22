@@ -3,7 +3,7 @@ title: Requesting a New Project
 created_at: '2026-10-27'
 tags:
 - how-to
-- project-lead
+- project-manager
 - allocation
 description: How researchers get a new project in the REANNZ HPC Portal through a group invitation link, an organisation owner, or a call for proposals.
 ---
@@ -109,7 +109,7 @@ REANNZ reviews those orders and makes recommendations if need be.
 ## Order an allocation
 
 Your project needs a project code before you order.
-A sync job assigns the code, usually within about 30 minutes of creating the project.
+A sync job assigns the code, usually within an hour of creating the project.
 
 1. Open your project and go to the **REANNZ Marketplace**.
 2. Choose the offering, for example **Mahuika**.
@@ -136,6 +136,7 @@ approve project requests that come through it,
 and create projects for researchers who ask you.
 You also approve the allocation order for each new project.
 See [Approve an order](../institution-admins/approve-requests.md#approve-an-order).
+For all of this on one page, see [Create projects](../institution-admins/create-projects.md).
 
 ### Share the link
 

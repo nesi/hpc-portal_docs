@@ -107,7 +107,7 @@ Check the resource in the portal for the result.
 - [Tour the HPC Portal](portal-overview.md), if you have not yet.
 - [Portal reference](portal-reference.md), to look up roles and screens.
 - Your guides: [project members](../members/index.md),
-  [project leads](../project-leads/index.md),
+  [project managers](../project-managers/index.md),
   [institution admins](../institution-admins/index.md).
 
 The HPC Portal is built on Waldur.

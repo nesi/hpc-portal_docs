@@ -14,7 +14,7 @@ Follow these steps in order. Each one builds on the last.
 1. **[Tour the HPC Portal](../getting-started/portal-overview.md)** – 10 minutes.
    Log in and find your roles, projects and resources.
 2. **[Accept a project invitation](accept-invitation.md)**.
-   Join the project your project lead invited you to.
+   Join the project your project manager invited you to.
 3. **[Access Mahuika](access-mahuika.md)**.
    Start using the project's allocation.
 

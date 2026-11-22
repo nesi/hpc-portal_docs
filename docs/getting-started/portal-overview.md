@@ -115,7 +115,7 @@ You can now:
 Pick the onboarding path for your main role:
 
 - *Project member*: [Project member path](../members/index.md)
-- *Project manager*: [Project lead path](../project-leads/index.md)
+- *Project manager*: [Project manager path](../project-managers/index.md)
 - *Organisation owner*: [Institution admin path](../institution-admins/index.md)
 
 To learn how projects, resources and orders fit together, read

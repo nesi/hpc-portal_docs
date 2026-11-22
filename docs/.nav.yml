@@ -2,6 +2,7 @@ nav:
   - Home: index.md
   - Getting started: getting-started
   - Project members: members
-  - Project leads: project-leads
+  - Project managers: project-managers
   - Institution admins: institution-admins
+  - Release notes: release-notes
   - tags.md

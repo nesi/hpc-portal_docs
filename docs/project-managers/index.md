@@ -1,9 +1,9 @@
 ---
-title: Project leads
+title: Project managers
 created_at: '2026-11-23'
 tags:
-- project-lead
-description: A self-paced onboarding path for project leads who request projects and allocations in the REANNZ HPC Portal.
+- project-manager
+description: A self-paced onboarding path for project managers who request projects and allocations in the REANNZ HPC Portal.
 ---
 
 You lead a project as its project manager.
@@ -28,6 +28,7 @@ You are set up when your resource shows **OK** and your team is under **Team** â
 
 ## Later, when you need to
 
+- **[Check allocation usage](allocation-usage.md)** across all your allocations.
 - **[Change allocation limits](change-limits.md)** for more compute or storage.
 - **[Extend an end date](extend-request.md)** before the allocation ends.
 

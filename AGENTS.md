@@ -18,7 +18,7 @@ Write each page for one persona. Put it in that persona's folder.
 | Persona | Portal role | Folder | Needs |
 |---|---|---|---|
 | Lucy, project member | Project member | `docs/members/` | Sign in, accept an invitation, find her project, reach Mahuika |
-| Sam, project lead (PI) | Project manager | `docs/project-leads/` | Request projects and allocations, invite team, change limits, extend end dates, track orders |
+| Sam, project manager (PI) | Project manager | `docs/project-managers/` | Request projects and allocations, invite team, change limits, extend end dates, track orders |
 | Rata, institution admin | Organisation owner | `docs/institution-admins/` | Approve orders and end dates, create projects, manage the invitation link, monitor via API |
 
 Shared pages go in `docs/getting-started/`.

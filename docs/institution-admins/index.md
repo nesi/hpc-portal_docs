@@ -22,13 +22,15 @@ Follow these steps in order. Each one builds on the last.
 
 1. **[Approve requests](approve-requests.md)**.
    Learn where each type of request waits for you.
-2. **[Create projects](create-projects.md)** and manage your group invitation link.
+2. **[Review pending requests](review-pending-requests.md)** in bulk.
+3. **[Create projects](create-projects.md)** and manage your group invitation link.
 
 You are ready when you can find your organisation's **Resources** → **Orders**
 and its **Team** → **Group invitations**.
 
 ## Optional
 
+- **[Monitor allocation usage](allocation-usage.md)** across your organisation.
 - **[Monitor allocations with the API](monitor-with-api.md)**.
 
 Look up roles and screens in the [Portal reference](../getting-started/portal-reference.md).
