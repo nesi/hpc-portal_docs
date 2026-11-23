@@ -17,5 +17,5 @@ Open <http://localhost:8000>.
 
 ## Contributing
 
-See [AGENTS.md](AGENTS.md) for page layout, personas and writing rules.
+See [AGENTS.md](AGENTS.md) for personas, page types ([Diátaxis](https://diataxis.fr/)) and writing rules.
 Open a pull request. Checks run on every PR; `main` deploys to GitHub Pages.
