@@ -23,6 +23,23 @@ Write each page for one persona. Put it in that persona's folder.
 
 Shared pages go in `docs/getting-started/`.
 
+## Page types (Diátaxis)
+
+The site follows [Diátaxis](https://diataxis.fr/). Each page is one type. Don't mix types on a page; link to another page instead.
+
+| Type | Tag | Purpose | Example |
+|---|---|---|---|
+| Tutorial | `tutorial` | Learn by doing a guided, safe task | `getting-started/portal-overview.md` |
+| How-to | `how-to` | Steps to reach one goal | `project-managers/change-limits.md` |
+| Reference | `reference` | Facts to look up: terms, roles, states | `getting-started/portal-reference.md` |
+| Explanation | `explanation` | Why and how things work | `getting-started/how-the-portal-works.md` |
+
+- Tag every page with exactly one type, plus its persona tag.
+- Persona tasks are how-tos. Name them by the goal ("Change allocation limits").
+- Persona `index.md` pages are onboarding paths. They link pages in order and have no type tag.
+- Release notes have no type tag.
+- New concepts go in the explanation page. New terms go in the reference page.
+
 ## Writing rules
 
 - Edit only under `docs/`. Theme lives in `overrides/` and `docs/assets/stylesheets/theme.css`.
