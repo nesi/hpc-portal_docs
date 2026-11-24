@@ -44,7 +44,7 @@ See [Check allocation usage](allocation-usage.md#see-your-waiting-requests).
 | Done | The change is in place. |
 | Rejected | Declined. The portal does not email you; ask your organisation owner why. |
 | Canceled | Withdrawn. Nothing changed. |
-| Erred | Something went wrong. [Contact our Support Team](mailto:support@nesi.org.nz?subject=HPC%20Portal%20Request). |
+| Erred | Something went wrong. [Contact our Support Team](mailto:support@nesi.org.nz?subject=HPC%20Portal%20Request) or [raise a support request](../getting-started/get-help.md). Quote your project code and allocation name. |
 
 If an order waits too long for your institution,
 ask an organisation owner there to check it.
