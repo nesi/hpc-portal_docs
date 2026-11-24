@@ -61,6 +61,9 @@ On the request page you can:
 - add a comment under **Comments**;
 - add a file under **Attachments**.
 
+Replies from the Support Team appear under **Comments**.
+When we close the request, its **Status** changes to **Resolved**.
+
 ## What to include
 
 Give us enough to act without asking you again:
