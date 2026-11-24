@@ -106,6 +106,7 @@ Check the resource in the portal for the result.
 
 - [Tour the HPC Portal](portal-overview.md), if you have not yet.
 - [Portal reference](portal-reference.md), to look up roles and screens.
+- [Get help](get-help.md), to contact the Support Team.
 - Your guides: [project members](../members/index.md),
   [project managers](../project-managers/index.md),
   [institution admins](../institution-admins/index.md).
