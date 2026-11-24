@@ -15,19 +15,25 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - uses: actions/configure-pages@v6
       - uses: actions/checkout@v7
-      - uses: astral-sh/setup-uv@v6
+      - uses: actions/configure-pages@v6
+      - uses: astral-sh/setup-uv@v10.3.3
       - run: uv sync --locked
       - run: uv run zensical build --clean --strict
       - uses: actions/upload-pages-artifact@v5
         with:
           path: site
+
+  # Separate job so a failed deploy can be re-run without rebuilding.
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
       - id: deployment
         uses: actions/deploy-pages@v5
