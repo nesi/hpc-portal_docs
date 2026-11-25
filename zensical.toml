@@ -56,7 +56,7 @@ toggle.name = "Switch to system preference"
 [project.plugins.search]
 
 [project.plugins.tags]
-tags_allowed = ["account", "portal", "allocation", "project-member", "project-manager", "access-enabler", "tutorial", "how-to", "reference", "explanation"]
+tags_allowed = ["account", "portal", "allocation", "project-member", "project-manager", "access-enabler", "service-provider", "tutorial", "how-to", "reference", "explanation"]
 
 [project.plugins.awesome-nav]
 
@@ -81,6 +81,7 @@ markdown_description = "User documentation for the REANNZ HPC Portal: signing in
 "Project members" = ["members/*.md"]
 "Project managers and PIs" = ["project-managers/*.md"]
 "Access enablers" = ["access-enablers/*.md"]
+"Service providers" = ["service-providers/*.md"]
 
 [project.plugins.privacy]
 links_attr_map = { target = "_blank" }
