@@ -1,12 +1,12 @@
 ---
-title: Project managers
+title: Project managers and PIs
 created_at: '2026-11-23'
 tags:
 - project-manager
-description: A self-paced onboarding path for project managers who request projects and allocations in the REANNZ HPC Portal.
+description: A self-paced onboarding path for project managers and principal investigators (PIs) who request projects and allocations in the REANNZ HPC Portal.
 ---
 
-You lead a project as its project manager.
+You lead a project as its project manager. This is usually the principal investigator (PI).
 Follow these steps in order. Each one builds on the last.
 
 <!-- TODO: add hands-on practice tutorials (order, invite) once a staging portal exists. -->

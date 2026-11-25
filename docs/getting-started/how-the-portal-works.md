@@ -37,9 +37,9 @@ A role links a person to a project or an organisation.
 One person can hold several roles.
 
 - A **project member** uses the project's resources.
-- A **project manager** runs the project.
+- A **project manager** runs the project. This is usually the principal investigator (PI).
   They order resources, change limits and ask for new end dates.
-- An **organisation owner** approves what projects in their organisation ask for.
+- An **organisation owner** approves what projects in their organisation ask for. REANNZ calls this person an *access enabler*.
 
 Whoever requests a new project becomes its project manager.
 
@@ -108,8 +108,8 @@ Check the resource in the portal for the result.
 - [Portal reference](portal-reference.md), to look up roles and screens.
 - [Get help](get-help.md), to contact the Support Team.
 - Your guides: [project members](../members/index.md),
-  [project managers](../project-managers/index.md),
-  [institution admins](../institution-admins/index.md).
+  [project managers and PIs](../project-managers/index.md),
+  [access enablers](../access-enablers/index.md).
 
 The HPC Portal is built on Waldur.
 The [Waldur user guide](https://docs.waldur.com/latest/user-guide/) covers these ideas in more depth.

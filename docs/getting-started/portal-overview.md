@@ -44,8 +44,8 @@ Each row is one role you hold.
 Look at the **Role name** column. You will see one or more of:
 
 - *Project member* – you work on someone else's project.
-- *Project manager* – you lead a project.
-- *Organisation owner* – you manage HPC access for your institution.
+- *Project manager* – you lead a project, usually as its principal investigator (PI).
+- *Organisation owner* – you are an access enabler: you manage HPC access for your institution.
 
 Note your roles. They decide what you can do and which guide you follow next.
 
@@ -115,8 +115,8 @@ You can now:
 Pick the onboarding path for your main role:
 
 - *Project member*: [Project member path](../members/index.md)
-- *Project manager*: [Project manager path](../project-managers/index.md)
-- *Organisation owner*: [Institution admin path](../institution-admins/index.md)
+- *Project manager*: [Project manager and PI path](../project-managers/index.md)
+- *Organisation owner*: [Access enabler path](../access-enablers/index.md)
 
 To learn how projects, resources and orders fit together, read
 [How the HPC Portal works](how-the-portal-works.md).

@@ -4,7 +4,7 @@ description: How organisation owners see which allocations in their organisation
 created_at: '2026-11-13'
 tags:
 - how-to
-- institution-admin
+- access-enabler
 - allocation
 ---
 

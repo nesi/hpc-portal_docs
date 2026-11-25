@@ -8,7 +8,7 @@ tags:
 - account
 ---
 
-A project manager adds you to their project by sending an invitation to your email address.
+A project manager, usually the principal investigator (PI), adds you to their project by sending an invitation to your email address.
 Accept it to join the project in the [REANNZ HPC Portal](https://hpc-portal.reannz.co.nz).
 
 ## Sign in with your institution account

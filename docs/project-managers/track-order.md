@@ -48,7 +48,7 @@ See [Check allocation usage](allocation-usage.md#see-your-waiting-requests).
 
 If an order waits too long for your institution,
 ask an organisation owner there to check it.
-They approve orders as described in [Approve an order](../institution-admins/approve-requests.md#approve-an-order).
+They approve orders as described in [Approve an order](../access-enablers/approve-requests.md#approve-an-order).
 
 ## When the resource is ready
 

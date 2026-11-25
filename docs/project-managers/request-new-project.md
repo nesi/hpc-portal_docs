@@ -135,8 +135,8 @@ As an organisation owner, you share your organisation's link,
 approve project requests that come through it,
 and create projects for researchers who ask you.
 You also approve the allocation order for each new project.
-See [Approve an order](../institution-admins/approve-requests.md#approve-an-order).
-For all of this on one page, see [Create projects](../institution-admins/create-projects.md).
+See [Approve an order](../access-enablers/approve-requests.md#approve-an-order).
+For all of this on one page, see [Create projects](../access-enablers/create-projects.md).
 
 ### Share the link
 
@@ -182,7 +182,7 @@ With a link that is approved automatically, there is nothing to approve.
 The portal does not email you, so check **User permission requests** to see who has used it.
 
 Either way, the allocation order comes to you next.
-See [Approve an order](../institution-admins/approve-requests.md#approve-an-order).
+See [Approve an order](../access-enablers/approve-requests.md#approve-an-order).
 
 ### Create a project
 

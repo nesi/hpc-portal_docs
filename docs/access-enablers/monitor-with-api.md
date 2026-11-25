@@ -1,10 +1,10 @@
 ---
 title: Monitor allocations with the API
-description: How institution admins use the HPC Portal API to watch allocations and end dates.
+description: How access enablers use the HPC Portal API to watch allocations and end dates.
 created_at: '2026-11-13'
 tags:
 - how-to
-- institution-admin
+- access-enabler
 - allocation
 ---
 

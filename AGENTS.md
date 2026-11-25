@@ -18,10 +18,17 @@ Write each page for one persona. Put it in that persona's folder.
 | Persona | Portal role | Folder | Needs |
 |---|---|---|---|
 | Lucy, project member | Project member | `docs/members/` | Sign in, accept an invitation, find her project, reach Mahuika |
-| Sam, project manager (PI) | Project manager | `docs/project-managers/` | Request projects and allocations, invite team, change limits, extend end dates, track orders |
-| Rata, institution admin | Organisation owner | `docs/institution-admins/` | Approve orders and end dates, create projects, manage the invitation link, monitor via API |
+| Sam, project manager or PI | Project manager | `docs/project-managers/` | Request projects and allocations, invite team, change limits, extend end dates, track orders |
+| Rata, access enabler | Organisation owner | `docs/access-enablers/` | Approve orders and end dates, create projects, manage the invitation link, monitor via API |
 
 Shared pages go in `docs/getting-started/`.
+
+### Persona terms
+
+Use the terms agreed with institutions:
+
+- **Access enabler** for the person at an institution who approves access. Not "institution admin". Their portal role is *organisation owner*; say so when the page names a portal screen or role.
+- **Project managers and PIs** in titles and navigation. In prose, say "project manager". Gloss it once on a page as "usually the principal investigator (PI)" where the reader may not know the term.
 
 ## Page types (Diátaxis)
 

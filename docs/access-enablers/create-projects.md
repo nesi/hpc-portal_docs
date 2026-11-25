@@ -1,10 +1,10 @@
 ---
 title: Create projects
-description: How institution admins create projects directly or share a group invitation link.
+description: How access enablers create projects directly or share a group invitation link.
 created_at: '2026-11-13'
 tags:
 - how-to
-- institution-admin
+- access-enabler
 ---
 
 As an organisation owner, you can give a researcher a new project in two ways:

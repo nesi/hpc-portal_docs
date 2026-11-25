@@ -1,6 +1,6 @@
 ---
 title: Home
-description: Guides for researchers, project managers and institution admins using the REANNZ HPC Portal.
+description: Guides for researchers, project managers, PIs and access enablers using the REANNZ HPC Portal.
 hide:
   - toc
 ---
@@ -26,7 +26,7 @@ HPC projects, team members and allocations on Mahuika and Freezer.
 
     [Start the member path](members/index.md)
 
-- **Project managers**
+- **Project managers and PIs**
 
     ---
 
@@ -35,14 +35,14 @@ HPC projects, team members and allocations on Mahuika and Freezer.
 
     [Start the project manager path](project-managers/index.md)
 
-- **Institution admins**
+- **Access enablers**
 
     ---
 
     You manage HPC access for your institution.
     Approve orders and end dates, and create projects.
 
-    [Start the admin path](institution-admins/index.md)
+    [Start the access enabler path](access-enablers/index.md)
 
 </div>
 
