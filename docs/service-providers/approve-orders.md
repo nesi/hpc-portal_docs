@@ -14,6 +14,7 @@ description: How a service provider finds orders waiting for provider approval a
 Every order for your offering passes two checks.
 The [access enabler](../access-enablers/index.md) at the project's institution approves it first.
 Then it waits for you as *Pending provider approval*.
+REANNZ staff often review it on your behalf.
 
 ## Find orders waiting for you
 
@@ -31,17 +32,23 @@ To be written.
 
 ## Which orders need you
 
-<!-- TODO: confirm which order types reach the provider: new resource,
-limit change, termination. A termination from a resource end date is
-approved automatically. -->
+These orders wait for review:
 
-To be written.
+- a new resource;
+- a change to the limits of an existing resource.
 
-## Orders the Site Agent handles
+A termination on a resource's end date is approved automatically.
 
-The Site Agent approves and completes orders for your offering.
-If it is not running, orders stay in *Pending provider approval*.
-REANNZ staff often act on your behalf.
+<!-- TODO: confirm whether a termination requested by a project waits for review. -->
+
+## After you approve
+
+The Site Agent picks up an order only after it is approved.
+It then sets up the resource or applies the new limits on your system,
+and marks the order done.
+The resource shows **OK**.
+
+If the Site Agent is not running, approved orders stay in *Executing*.
 
 ## When an order fails
 
