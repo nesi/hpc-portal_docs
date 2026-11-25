@@ -1,6 +1,6 @@
 ---
 title: Home
-description: Guides for researchers, project managers, PIs and access enablers using the REANNZ HPC Portal.
+description: Guides for researchers, project managers, PIs, access enablers and service providers using the REANNZ HPC Portal.
 hide:
   - toc
 ---
@@ -43,6 +43,15 @@ HPC projects, team members and allocations on Mahuika and Freezer.
     Approve orders and end dates, and create projects.
 
     [Start the access enabler path](access-enablers/index.md)
+
+- **Service providers**
+
+    ---
+
+    You offer a service, such as an HPC cluster, through the portal.
+    Publish offerings and approve orders.
+
+    [Start the service provider path](service-providers/index.md)
 
 </div>
 

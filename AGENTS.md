@@ -20,6 +20,7 @@ Write each page for one persona. Put it in that persona's folder.
 | Lucy, project member | Project member | `docs/members/` | Sign in, accept an invitation, find her project, reach Mahuika |
 | Sam, project manager or PI | Project manager | `docs/project-managers/` | Request projects and allocations, invite team, change limits, extend end dates, track orders |
 | Rata, access enabler | Organisation owner | `docs/access-enablers/` | Approve orders and end dates, create projects, manage the invitation link, monitor via API |
+| Ari, service provider | Service provider owner or offering manager (to confirm) | `docs/service-providers/` | Add an offering to the marketplace, approve orders, report usage, manage resources |
 
 Shared pages go in `docs/getting-started/`.
 
