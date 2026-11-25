@@ -15,8 +15,8 @@ For a guided walk-through, see [Tour the HPC Portal](portal-overview.md).
 | Role | Who holds it | What they can do |
 | --- | --- | --- |
 | Project member | Researchers on a project | View the project and its resources. |
-| Project manager | The project owner or PI | Order resources, change resource limits and request an end date change. |
-| Organisation owner | Nominated staff at your institution | Approve requests from projects in their organisation and set end dates directly. See [Approving requests](../institution-admins/approve-requests.md). |
+| Project manager | The project owner, usually the principal investigator (PI) | Order resources, change resource limits and request an end date change. |
+| Organisation owner | Your institution's access enablers | Approve requests from projects in their organisation and set end dates directly. See [Approving requests](../access-enablers/approve-requests.md). |
 
 ## Sidebar
 
@@ -80,4 +80,4 @@ Click **Details** to open a project.
 
 ## Where requests wait
 
-See [Find pending requests](../institution-admins/approve-requests.md#find-pending-requests).
+See [Find pending requests](../access-enablers/approve-requests.md#find-pending-requests).

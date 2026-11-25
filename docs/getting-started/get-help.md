@@ -18,7 +18,7 @@ Both reach the same team. Use whichever suits you.
 Raise a request from an allocation's page when the problem is about that allocation.
 The portal then links your request to the allocation, its project and its organisation.
 
-Any project member or project manager can raise a request.
+Any project member, project manager or PI can raise a request.
 
 ## Raise a support request
 

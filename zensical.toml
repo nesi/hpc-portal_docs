@@ -56,7 +56,7 @@ toggle.name = "Switch to system preference"
 [project.plugins.search]
 
 [project.plugins.tags]
-tags_allowed = ["account", "portal", "allocation", "project-member", "project-manager", "institution-admin", "tutorial", "how-to", "reference", "explanation"]
+tags_allowed = ["account", "portal", "allocation", "project-member", "project-manager", "access-enabler", "tutorial", "how-to", "reference", "explanation"]
 
 [project.plugins.awesome-nav]
 
@@ -66,6 +66,12 @@ tags_allowed = ["account", "portal", "allocation", "project-member", "project-ma
 "project-leads/invite-team.md" = "project-managers/invite-team.md"
 "project-leads/request-new-project.md" = "project-managers/request-new-project.md"
 "project-leads/track-order.md" = "project-managers/track-order.md"
+"institution-admins/index.md" = "access-enablers/index.md"
+"institution-admins/allocation-usage.md" = "access-enablers/allocation-usage.md"
+"institution-admins/approve-requests.md" = "access-enablers/approve-requests.md"
+"institution-admins/create-projects.md" = "access-enablers/create-projects.md"
+"institution-admins/monitor-with-api.md" = "access-enablers/monitor-with-api.md"
+"institution-admins/review-pending-requests.md" = "access-enablers/review-pending-requests.md"
 
 [project.plugins.llmstxt]
 markdown_description = "User documentation for the REANNZ HPC Portal: signing in, requesting and extending HPC projects, and approving requests."
@@ -73,8 +79,8 @@ markdown_description = "User documentation for the REANNZ HPC Portal: signing in
 [project.plugins.llmstxt.sections]
 "Getting started" = ["getting-started/*.md"]
 "Project members" = ["members/*.md"]
-"Project managers" = ["project-managers/*.md"]
-"Institution admins" = ["institution-admins/*.md"]
+"Project managers and PIs" = ["project-managers/*.md"]
+"Access enablers" = ["access-enablers/*.md"]
 
 [project.plugins.privacy]
 links_attr_map = { target = "_blank" }
