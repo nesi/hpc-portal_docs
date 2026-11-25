@@ -11,6 +11,8 @@ description: A self-paced onboarding path for service providers who publish offe
 
 You run a service, such as an HPC cluster or storage, and offer it to projects through the portal.
 In the portal, your organisation is a *service provider* and each service is an *offering*.
+Your portal role is *service provider owner*.
+REANNZ staff often act on your behalf.
 
 Follow these steps in order. Each one builds on the last.
 

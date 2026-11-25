@@ -15,11 +15,8 @@ It stays a draft until it is activated.
 
 ## Before you start
 
-<!-- TODO: who registers the organisation as a service provider (REANNZ staff
-or the organisation owner)? Waldur path: organisation → Edit → Service provider
-→ Register as service provider. -->
-
-To be written: how your organisation becomes a service provider.
+REANNZ staff register your organisation as a service provider.
+[Contact the Support Team](../getting-started/get-help.md) to start.
 
 ## Create the offering
 
@@ -45,14 +42,14 @@ To be written.
 
 ## Connect the offering to your system
 
-<!-- TODO: SLURM offerings use the Waldur Site Agent. Who sets this up
-(REANNZ or the provider)? Link to support docs if any. -->
+The Waldur Site Agent links the offering to your system.
+It processes orders and reports usage.
 
-To be written.
+<!-- TODO: who installs and configures the Site Agent? -->
+
+To be written: how to set up the Site Agent.
 
 ## Activate the offering
 
-<!-- TODO: states Draft → Active → Paused → Archived. Confirm who may
-activate (provider or REANNZ staff). -->
-
-To be written.
+REANNZ staff activate the offering.
+Until then it stays a draft and projects cannot order it.

@@ -16,8 +16,9 @@ You keep it in step with your system until it ends.
 
 ## Report usage
 
-<!-- TODO: usage-based components need reported usage. The Site Agent reports
-it for SLURM offerings. Confirm interval and how to check it. -->
+The Site Agent reports usage for you.
+
+<!-- TODO: confirm reporting interval and how a provider checks it. -->
 
 To be written.
 
@@ -38,7 +39,6 @@ To be written.
 
 ## Fix a stuck resource
 
-<!-- TODO: resource stuck in Terminating: "Set as erred". Confirm who may
-do this; the Waldur docs disagree (provider vs staff only). -->
-
-To be written.
+Only REANNZ staff can reset a resource's state.
+If a resource is stuck, for example in *Terminating*,
+[contact the Support Team](../getting-started/get-help.md).

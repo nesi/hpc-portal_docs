@@ -39,11 +39,9 @@ To be written.
 
 ## Orders the Site Agent handles
 
-<!-- TODO: for SLURM offerings the Site Agent approves and completes orders.
-If no agent runs, orders stay in Pending provider approval. Confirm the
-REANNZ setup and what, if anything, the provider still checks. -->
-
-To be written.
+The Site Agent approves and completes orders for your offering.
+If it is not running, orders stay in *Pending provider approval*.
+REANNZ staff often act on your behalf.
 
 ## When an order fails
 
