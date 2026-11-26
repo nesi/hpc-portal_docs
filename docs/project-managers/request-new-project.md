@@ -117,11 +117,17 @@ A sync job assigns the code, usually within an hour of creating the project.
    The suggested name should start with your project code, for example `bsi0NNNN-1`.
    If it starts with your project name instead, the code is not ready yet.
    Leave the order form and try again later.
-4. Enter the limits you need and submit the order.
+4. Enter the limits you need.
+5. Under **Final configuration**, set a **Start date** if the allocation should wait until a later date.
+   Leave it blank to have it set up as soon as the order is approved.
+   See [Choose a start date](track-order.md#choose-a-start-date).
+6. Submit the order.
 
 The order goes to an organisation owner at your institution for approval.
 REANNZ then reviews it and makes recommendations if need be.
-The allocation is ready once REANNZ marks the order done.
+The allocation is set up after that review,
+or on the start date if you set one.
+It is ready once REANNZ marks the order done.
 
 !!! note "Check the order status in the portal"
     The portal sends no email when REANNZ finishes its review, when provisioning finishes,
