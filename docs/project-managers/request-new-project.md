@@ -12,9 +12,9 @@ There are three ways to get a new project:
 
 | Route | Use it when |
 | --- | --- |
-| [Group invitation link](#use-a-group-invitation-link) | Your organisation has a link. |
+| [Group invitation link](#use-a-group-invitation-link) | Your organisation has a link. It is the only way to request a project yourself. |
 | [Ask an organisation owner](#ask-an-organisation-owner) | Your organisation has no link, or you prefer to ask. |
-| [Apply to a call](#apply-to-a-call) | Your organisation runs a call for proposals. |
+| [Apply to a call](#apply-to-a-call) | Your organisation runs a call for proposals. No organisation runs one at present. |
 
 Whichever route you use, you become the project's project manager.
 An organisation owner approves the allocation for it.
@@ -29,7 +29,10 @@ Organisation owners, see [For organisation owners](#for-organisation-owners).
 
 ## Use a group invitation link
 
-REANNZ sets up a link for each organisation that uses one.
+You need a link to request a project yourself.
+Only REANNZ can create one, and each organisation that wants one gets its own.
+If your organisation has no link, [ask an organisation owner](#ask-an-organisation-owner).
+
 A link works in one of two ways:
 
 | Link type | What happens when you use it |
@@ -158,6 +161,9 @@ anyone who logs in with it can create a project in your organisation.
 You cannot change or cancel the link yourself.
 If your organisation has no link, or you want it changed or cancelled,
 [Contact our Support Team](mailto:support@nesi.org.nz?subject=HPC%20Portal%20Request).
+
+REANNZ recommends a link that is approved automatically.
+See [Choose how project requests are approved](../access-enablers/create-projects.md#choose-how-project-requests-are-approved).
 
 ### Approve a project request
 

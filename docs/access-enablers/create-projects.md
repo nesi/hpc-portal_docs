@@ -77,9 +77,29 @@ To find the link:
 Requests through a link that needs approval wait for you.
 See [Approve a project request](../project-managers/request-new-project.md#approve-a-project-request).
 
-You cannot change or cancel the link yourself.
+You cannot create, change or cancel the link yourself.
+The portal may still show a button to create a group invitation for your organisation,
+but saving it fails with **Not found**.
+You can create a group invitation on one of your projects.
+It adds people to that existing project and cannot create a new one.
+
 If your organisation has no link, or you want it changed or cancelled,
 [Contact our Support Team](mailto:support@nesi.org.nz?subject=HPC%20Portal%20Request).
+
+## Choose how project requests are approved
+
+REANNZ recommends a link that is approved automatically.
+Researchers then go straight on to order an allocation,
+and you still approve that order before anything is allocated.
+
+Ask for a link that needs approval if your institution reviews
+each project before any resources are requested.
+
+With a link that is approved automatically, you cannot decline a request
+that names an existing project.
+The requester joins that project as project manager at once.
+Check **User permission requests** for joins you did not expect,
+and remove anyone who should not be there.
 
 ## Keep the invitation link private
 
