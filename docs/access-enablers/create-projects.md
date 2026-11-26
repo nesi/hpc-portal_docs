@@ -77,7 +77,12 @@ To find the link:
 Requests through a link that needs approval wait for you.
 See [Approve a project request](../project-managers/request-new-project.md#approve-a-project-request).
 
-You cannot change or cancel the link yourself.
+You cannot create, change or cancel the link yourself.
+The portal may still show a button to create a group invitation for your organisation,
+but saving it fails with **Not found**.
+You can create a group invitation on one of your projects.
+It adds people to that existing project and cannot create a new one.
+
 If your organisation has no link, or you want it changed or cancelled,
 [Contact our Support Team](mailto:support@nesi.org.nz?subject=HPC%20Portal%20Request).
 
